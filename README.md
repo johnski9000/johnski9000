@@ -10,6 +10,7 @@
 - Next.js
 - Node.js
 - AWS services (e.g., Lambda, S3, DynamoDB, EC2)
+- Mongodb and Firebase
 - HTML/CSS/JavaScript
 - Git
 
