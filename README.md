@@ -16,6 +16,6 @@
 
 📈 Outside of work, I enjoy keeping up-to-date with the latest trends and best practices in web development. I'm always looking for new ways to improve my skills and learn from other developers in the community.
 
-📫 Want to get in touch? Feel free to connect with me on LinkedIn or shoot me an email at januszwozniak.bth@gmail.com. I'd love to chat about all things web development!```
+📫 Want to get in touch? Feel free to connect with me on LinkedIn or shoot me an email at januszwozniak.bth@gmail.com. I'd love to chat about all things web development!
 
 Hope this helps!
